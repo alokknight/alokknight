@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alokknight
+- 👋 Hi, I’m @alok patel
 - 👀 I’m interested in  Machine Learning 
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on django projects.
