@@ -1,20 +1,20 @@
 -<p align="center" >
           
-<img src="https://github.com/alokknight/alokknight/blob/master/Assets/Welcome.gif" width="30%" >
+<img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Welcome.gif" width="30%" >
 
 </p>
 
 <p>
   
 #### Thanks for visiting my GitHub profile, it's great to see you! 😇
-<img src="https://github.com/alokknight/alokknight/blob/master/Assets/Hi.gif" width="30" style="display: inline-block;"> I am ALOK PATEL pursuing my Computer Science and Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in).
+<img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Hi.gif" width="30" style="display: inline-block;"> I am ALOK PATEL pursuing B.tech. in Computer Science & Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in).
   
 </p>
 
 ## About Me
 
 
-- 🚀 I'm currently a python Full Stack Developer and a Competitive Programmer
+- 🚀 I'm currently a Python Full Stack Developer and a Competitive Programmer
 
 - 🌱 I’m currently learning AWS.
 
@@ -29,7 +29,7 @@
 - ⚡ Fun fact: I spent a lot of time with my Lappy.
 
 
-## Let's Connect <img src="https://github.com/alokknight/alokknight/blob/master/Assets/let's%20meet.gif" alt="meet" height=30>
+## Let's Connect <img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/let's%20meet.gif" alt="meet" height=30>
 <br>
 
 <a href="https://twitter.com/aalokknight">
