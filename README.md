@@ -32,10 +32,6 @@
 ## Let's Connect <img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/let's%20meet.gif" alt="meet" height=30>
 <br>
 
-<a href="https://twitter.com/aalokknight">
-  <img align="left" alt="ALok's Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/alokknight">
   <img align="left" alt="Alok's LinkdeIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -44,14 +40,9 @@
   <img align="left" alt="ALok's hackerrank" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/#">
-  <img align="left" alt="Alok's StackOverflow" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-
 <a href="https://auth.geeksforgeeks.org/user/alokknight/">
   <img align="left" alt="Alok's Geeksforgeeks" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
-
 
 <a href="https://www.codechef.com/users/alokknight">
   <img align="left" alt="Alok's Codechef" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -61,6 +52,14 @@
   <img align="left" alt="Alok's Codechef" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 
+
+<a href="https://stackoverflow.com/users/#">
+  <img align="left" alt="Alok's StackOverflow" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<a href="https://twitter.com/aalokknight">
+  <img align="left" alt="ALok's Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 <a href="mailto:alokpatel885@gmail.com">
   <img align="left" alt="Alok's gmail" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
