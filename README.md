@@ -70,8 +70,7 @@
 <br>
 
 ## Visitors 
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Falokknight)
+![](https://visitor-badge.glitch.me/badge?page_id=alokknight.alokknight)  
 
 <img align="left" width="417px" alt="Alok's github stats" 
 src="https://github-readme-stats.vercel.app/api?username=alokknight&count_private=true&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
