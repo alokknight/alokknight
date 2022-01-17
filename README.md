@@ -69,14 +69,20 @@
 <br>
 <br>
 
-
 ## My Tech Stack
 
 **Programming Languages**
 
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>|<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>|
 |--|--|--|
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>|
+
+<br>
+<details open>
+<img height="180em" align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokknight&layout=compact">
+</details>
+<br><br><br><br><br><br><br><br>
 
 **Libraries and Frameworks**
 
@@ -103,24 +109,16 @@
 <summary><b>⚡ Github Stats</b></summary>
 <details open>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alokknight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95" />
-
-  </details>
+</details>
 
 <summary><b>☄️ Github Streaks</b></summary>
 <details open>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alokknight&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alokknight&hide_border=true"  alt="alokknight"/>
 </details>
 
 ## Visitors 
 ![](https://visitor-badge.glitch.me/badge?page_id=alokknight.alokknight)  
 
-<img align="left" width="417px" alt="Alok's github stats" 
-src="https://github-readme-stats.vercel.app/api?username=alokknight&count_private=true&show_icons=true&icon_color=79ff97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-    
-<img align="left" width="350px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokknight&layout=compact"><br>
-<br>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokknight" alt="alokknight" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokknight&" alt="alokknight" /></p>
