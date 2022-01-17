@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  
+          
 #### Thanks for visiting my GitHub profile, it's great to see you! 😇
 <img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Hi.gif" width="30" style="display: inline-block;"> I am ALOK PATEL pursuing B.tech. in Computer Science & Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in).
   
@@ -14,6 +14,8 @@
 
 ## About Me <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30" >
 **A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product. I have an immense interest in automating things up and contributing to open source.**
+
+<img align="right" src="https://github.com/alokknight/alokknight/blob/main/Assets/cat-computer.gif" width="30%" >
 
 - 🚀 I'm currently a Python Full Stack Developer and a Competitive Programmer
 
