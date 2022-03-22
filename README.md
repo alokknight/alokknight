@@ -25,7 +25,7 @@
 
 - 💬 Ask me about programming languages and web development related stuffs.
 
-- 📫 How to reach me: Just Google - <a href="https://www.alokknightcom">**alokknight**</a>
+- 📫 How to reach me: Just Google - <a href="https://www.alokknight.com">**alokknight**</a>
 
 - 😄 Pronouns: **Creative**, **Developer** and **Programmer**
 
