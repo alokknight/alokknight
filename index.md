@@ -1,32 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alokknight/alokknight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 <p align="center" >
           
 <img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Welcome.gif" width="30%" >
@@ -35,7 +6,7 @@ Syntax highlighted code block
 
 <p>
           
-#### Thanks for visiting my GitHub profile, it's great to see you! 😇
+### Thanks for visiting my GitHub profile, it's great to see you! 😇
 <img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Hi.gif" width="30" style="display: inline-block;"> I am ALOK PATEL pursuing B.tech. in Computer Science & Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in).
   
 </p>
