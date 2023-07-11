@@ -17,7 +17,7 @@
 
 <img align="right" src="https://github.com/alokknight/alokknight/blob/main/Assets/cat-computer.gif" width="30%" >
 
-- 🚀 I'm currently a Python Full Stack Developer and a Competitive Programmer
+- 🚀 I'm currently a Java Full Stack Developer and a Competitive Programmer
 
 - 🌱 I’m currently learning AWS.
 
@@ -79,7 +79,7 @@
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>|<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>|
 |--|--|--|
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>|
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>|<img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>|
 
 <br>
 <details open>
@@ -89,14 +89,14 @@
 
 **Libraries and Frameworks**
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>|<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
-|--|--|--|
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>|<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|<img src="https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=61DAFB"/>|<img src="https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=springboot&logoColor=61DAFB"/>|
+|--|--|--|--|--|
 
 
 **Databases**
 
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|<img src="https://img.shields.io/badge/MySql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white"/>|<img src="https://img.shields.io/badge/MongoDB-0B96B2?style=for-the-badge&logo=mongodb&logoColor=white"/>|
-|--|--|--|
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|<img src="https://img.shields.io/badge/MySql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white"/>|<img src="https://img.shields.io/badge/MongoDB-0B96B2?style=for-the-badge&logo=mongodb&logoColor=white"/>|<img src="https://img.shields.io/badge/OracleDB-0B96B2?style=for-the-badge&logo=oracledb&logoColor=white"/>
+|--|--|--|--|
 
 **Hosting** 
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>|<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>|
