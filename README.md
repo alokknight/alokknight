@@ -7,29 +7,35 @@
 
 <p>
           
-#### Thanks for visiting my GitHub profile, it's great to see you! 😇
-<img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Hi.gif" width="30" style="display: inline-block;">I am ALOK PATEL. Currently I am working as Java Developer at ERICSSON. I have completed B.tech. in Computer Science & Engineering from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in).
-  
-</p>
+#### Thanks for visiting my GitHub profile, it's great to see you! 😇  
+<img src="https://github.com/alokknight/alokknight/blob/53cdea33fe05e5e42f3cc310676d15bcbac875b0/Assets/Hi.gif" width="30" style="display: inline-block;">  
+I am **ALOK PATEL**, currently working as a **Java Developer** at **ERICSSON**.  
+I completed my **B.Tech in Computer Science & Engineering** from [Madan Mohan Malaviya University of Technology, Gorakhpur](http://mmmut.ac.in).
 
-## 👨‍💻 About Me <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30" >
-**A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product. I have an immense interest in automating things up and contributing to open source.**
+---
 
-<img align="right" src="https://github.com/alokknight/alokknight/blob/main/Assets/cat-computer.gif" width="30%" >
+## 👨‍💻 About Me <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30">
 
-- 🚀 I'm currently a Java Full Stack Developer and a Competitive Programmer
+**I'm a meticulous and passionate full stack developer who believes in solving real-world problems through optimized, scalable, and clean architecture.**  
+I’m obsessed with automation, system design, and building SaaS products from the ground up.
 
-- 🌱 I’m currently learning AWS.
+<img align="right" src="https://github.com/alokknight/alokknight/blob/main/Assets/cat-computer.gif" width="30%">
 
-- 👯 I’m looking to collaborate on my Github projects.
+- 🚀 **Currently working professionally with Django Full Stack**, delivering production-grade systems since 2018.
+- 🛠️ **8+ years of Django experience**, architecting multi-tenant SaaS platforms, RESTful APIs, and backend-heavy services.
+- 💻 Also proficient in **Java Full Stack** development and **DevOps** practices (Docker, CI/CD, Nginx, GitHub Actions, deployment pipelines).
+- 🧱 I’ve designed full system architectures for companies like **Movitx.ai** and others in domains like real estate, medical, library, and ERP.
+- ☁️ Working with **AWS**, **Linux servers**, and cloud-native deployment workflows.
+- 👯 I’m open to collaborations on high-impact GitHub projects and scalable platforms.
+- 💬 Ask me about **Django**, **PostgreSQL**, **system design**, **DevOps**, or **backend engineering**.
+- 📫 Just Google me: <a href="https://www.alokknight.com">**alokknight**</a>
+- 😄 Pronouns: **Creative**, **Builder**, **Problem-Solver**
+- ⚡ Fun fact: I treat my laptop like my co-founder.
 
-- 💬 Ask me about programming languages and web development related stuffs.
+---
 
-- 📫 How to reach me: Just Google - <a href="https://www.alokknight.com">**alokknight**</a>
+Let’s build something meaningful and scalable. 🚀
 
-- 😄 Pronouns: **Creative**, **Developer** and **Programmer**
-
-- ⚡ Fun fact: I spent a lot of time with my Lappy.
 
 <br>
 <br>
